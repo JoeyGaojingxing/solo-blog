@@ -10,6 +10,7 @@ Mojerro的安乐窝
 
 ### 最新
 
+* [进入8月，在假期中旬的回顾与展望](http://www.mojerro.wang/articles/2019/08/01/1564673603852.html)
 * [我在 GitHub 上的开源项目](http://www.mojerro.wang/my-github-repos)
 * [【翻译】如何处理Go语言中的错误](http://www.mojerro.wang/articles/2019/07/25/1564036077810.html)
 * [世界，你好！](http://www.mojerro.wang/hello-solo)
