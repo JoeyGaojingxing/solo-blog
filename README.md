@@ -10,9 +10,9 @@ Mojerro的安乐窝
 
 ### 最新
 
-* [CS231n学习笔记](http://www.mojerro.wang/articles/2019/08/04/1564849574596.html)
-* [test](http://www.mojerro.wang/articles/2019/08/03/1564821515607.html)
-* [CS213n assignment #1](http://www.mojerro.wang/articles/2019/08/03/1564820529668.html)
+* [CS231n学习笔记](http://www.mojerro.wang/cs231n)
+* [test](http://www.mojerro.wang/test)
+* [CS213n assignment #1](http://www.mojerro.wang/cs231n-2019-assignment-1)
 * [进入8月，在假期中旬的回顾与展望](http://www.mojerro.wang/articles/2019/08/01/1564673603852.html)
 * [我在 GitHub 上的开源项目](http://www.mojerro.wang/my-github-repos)
 * [【翻译】如何处理Go语言中的错误](http://www.mojerro.wang/articles/2019/07/25/1564036077810.html)
