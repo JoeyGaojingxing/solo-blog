@@ -1,4 +1,4 @@
-<p align="center"><img alt="Mojerro的安乐窝" src="https://static.b3log.org/images/brand/solo-32.png"></p><h2 align="center">
+<p align="center"><img alt="Mojerro的安乐窝" src="https://avatars2.githubusercontent.com/u/15071824?v=4"></p><h2 align="center">
 Mojerro的安乐窝
 </h2>
 
@@ -10,6 +10,8 @@ Mojerro的安乐窝
 
 ### 最新
 
+* [CS231n assignment #3](http://www.mojerro.wang/cs231n-2019-assignment-3)
+* [CS231n assignment #2](http://www.mojerro.wang/cs231n-2019-assignment-2)
 * [CS231n学习笔记](http://www.mojerro.wang/cs231n)
 * [test](http://www.mojerro.wang/test)
 * [CS213n assignment #1](http://www.mojerro.wang/cs231n-2019-assignment-1)
